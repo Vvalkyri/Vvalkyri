@@ -1,2 +1,3 @@
-- I’m currently learning: Python 3
+- I'm Zoey/Nozomi/Valkyrie
 - Pronouns: She/Her
+- I’m currently learning: Python 3
