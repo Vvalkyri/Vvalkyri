@@ -1,0 +1,2 @@
+- I’m currently learning: Python 3
+- Pronouns: She/Her
