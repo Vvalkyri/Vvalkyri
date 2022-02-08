@@ -1,2 +1,0 @@
-- I’m Valkyrie.
-- Using GitHub to store my coding exercises as I study.
