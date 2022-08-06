@@ -1,3 +1,1 @@
-- Name: Zoey/Nozomi/Valkyrie
-- Pronouns: She/Her
-- Learning: Python 3
+
